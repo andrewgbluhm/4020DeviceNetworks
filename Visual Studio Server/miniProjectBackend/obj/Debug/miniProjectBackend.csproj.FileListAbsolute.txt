@@ -1,0 +1,30 @@
+C:\Users\myscr\source\repos\miniProjectBackend\miniProjectBackend\bin\Debug\miniProjectBackend.exe.config
+C:\Users\myscr\source\repos\miniProjectBackend\miniProjectBackend\bin\Debug\miniProjectBackend.exe
+C:\Users\myscr\source\repos\miniProjectBackend\miniProjectBackend\bin\Debug\miniProjectBackend.pdb
+C:\Users\myscr\source\repos\miniProjectBackend\miniProjectBackend\obj\Debug\miniProjectBackend.csprojAssemblyReference.cache
+C:\Users\myscr\source\repos\miniProjectBackend\miniProjectBackend\obj\Debug\miniProjectBackend.Form1.resources
+C:\Users\myscr\source\repos\miniProjectBackend\miniProjectBackend\obj\Debug\miniProjectBackend.Properties.Resources.resources
+C:\Users\myscr\source\repos\miniProjectBackend\miniProjectBackend\obj\Debug\miniProjectBackend.csproj.GenerateResource.cache
+C:\Users\myscr\source\repos\miniProjectBackend\miniProjectBackend\obj\Debug\miniProjectBackend.csproj.CoreCompileInputs.cache
+C:\Users\myscr\source\repos\miniProjectBackend\miniProjectBackend\obj\Debug\miniProjectBackend.exe
+C:\Users\myscr\source\repos\miniProjectBackend\miniProjectBackend\obj\Debug\miniProjectBackend.pdb
+D:\College\Y4S1\4020\miniProjectBackend\miniProjectBackend\bin\Debug\miniProjectBackend.exe.config
+D:\College\Y4S1\4020\miniProjectBackend\miniProjectBackend\bin\Debug\miniProjectBackend.exe
+D:\College\Y4S1\4020\miniProjectBackend\miniProjectBackend\bin\Debug\miniProjectBackend.pdb
+D:\College\Y4S1\4020\miniProjectBackend\miniProjectBackend\obj\Debug\miniProjectBackend.csprojAssemblyReference.cache
+D:\College\Y4S1\4020\miniProjectBackend\miniProjectBackend\obj\Debug\miniProjectBackend.Form1.resources
+D:\College\Y4S1\4020\miniProjectBackend\miniProjectBackend\obj\Debug\miniProjectBackend.Properties.Resources.resources
+D:\College\Y4S1\4020\miniProjectBackend\miniProjectBackend\obj\Debug\miniProjectBackend.csproj.GenerateResource.cache
+D:\College\Y4S1\4020\miniProjectBackend\miniProjectBackend\obj\Debug\miniProjectBackend.csproj.CoreCompileInputs.cache
+D:\College\Y4S1\4020\miniProjectBackend\miniProjectBackend\obj\Debug\miniProjectBackend.exe
+D:\College\Y4S1\4020\miniProjectBackend\miniProjectBackend\obj\Debug\miniProjectBackend.pdb
+H:\College\Y4S1\4020 Device Networks\final project\miniProjectBackend\bin\Debug\miniProjectBackend.exe.config
+H:\College\Y4S1\4020 Device Networks\final project\miniProjectBackend\bin\Debug\miniProjectBackend.exe
+H:\College\Y4S1\4020 Device Networks\final project\miniProjectBackend\bin\Debug\miniProjectBackend.pdb
+H:\College\Y4S1\4020 Device Networks\final project\miniProjectBackend\obj\Debug\miniProjectBackend.csprojAssemblyReference.cache
+H:\College\Y4S1\4020 Device Networks\final project\miniProjectBackend\obj\Debug\miniProjectBackend.Form1.resources
+H:\College\Y4S1\4020 Device Networks\final project\miniProjectBackend\obj\Debug\miniProjectBackend.Properties.Resources.resources
+H:\College\Y4S1\4020 Device Networks\final project\miniProjectBackend\obj\Debug\miniProjectBackend.csproj.GenerateResource.cache
+H:\College\Y4S1\4020 Device Networks\final project\miniProjectBackend\obj\Debug\miniProjectBackend.csproj.CoreCompileInputs.cache
+H:\College\Y4S1\4020 Device Networks\final project\miniProjectBackend\obj\Debug\miniProjectBackend.exe
+H:\College\Y4S1\4020 Device Networks\final project\miniProjectBackend\obj\Debug\miniProjectBackend.pdb
