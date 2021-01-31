@@ -3,3 +3,6 @@ In Device Networks, we used a BeagleBone Black running its own API. Our backend 
 
 Video Link:
 CPE 4020 Team 3 Task 1- https://www.youtube.com/watch?v=o9U9eGrNY0Q&ab_channel=AndrewBluhm
+CPE 4020 Team 3 Task 2- https://www.youtube.com/watch?v=06ikCQpJx3o&ab_channel=AndrewBluhm
+4020 Final Presentation- https://www.youtube.com/watch?v=UjIX0vwLVgU&ab_channel=AndrewBluhm
+
